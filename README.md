@@ -1,20 +1,20 @@
-<h1 align="center"><b>FRONT-END ROADMAP</b></h1>
-<p align="center">
+# FRONT-END ROADMAP
+
 Are you looking to navigate the ever-evolving world of frontend development? Whether you're a beginner or an experienced developer, understanding the key technologies, tools, and concepts that are essential for success is crucial. This comprehensive roadmap provides you with a clear direction for your learning journey and covers the core aspects of frontend development.
-</p>
-<img align="center" src="https://user-images.githubusercontent.com/89293751/228639576-558f96c2-27ea-438c-930c-aa205212c513.png">
 
-<h1><b>CONTENTS</b></h1>
+![Frontend Roadmap Image](https://user-images.githubusercontent.com/89293751/228639576-558f96c2-27ea-438c-930c-aa205212c513.png)
 
-- <a href="#timeline">Timeline</a>
-- <a href="#goodToKnow">Good To Know</a>
-- <a href="#introduction">Intro</a>
-- <a href="#core">Core Concepts</a>
-- <a href="#intermediate">Intermediate</a>
-- <a href="#advanced">Advanced</a>
-- <a href="#extra">Extra</a>
+## CONTENTS
 
-<h2 id="timeline"><b>Timeline</b></h2>
+- [Timeline](#timeline)
+- [Good To Know](#good-to-know)
+- [Intro](#intro)
+- [Core Concepts](#core)
+- [Intermediate](#intermediate)
+- [Advanced](#advanced)
+- [Extra](#extra)
+
+## Timeline
 
 | Phase        | Effort   |
 | ------------ | -------- |
@@ -24,9 +24,9 @@ Are you looking to navigate the ever-evolving world of frontend development? Whe
 | Advanced     | 48 Hours |
 | Extra        | 34 Hours |
 
-<h2 id="goodToKnow"><b>Good To Know</b></h2>
+## Good To Know
 
-This roadmap assumes that You have already studied the following topics:
+This roadmap assumes that you have already studied the following topics:
 
 - At least **one** programming language, such as **JavaScript**, **C++**, or **Java**, and a basic understanding of the concepts of programming, such as variables, loops, and functions.
 - Fundamental of **Algorithms** and **Data Structures**, such as Big O Notation, Arrays, Linked Lists, Stacks, Queues, Sorting, and Searching.
@@ -41,7 +41,7 @@ Here are some resources to learn these topics:
 - [Adel Nasim - Data Structures Full Course](https://youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp) | Arabic
 - [Omar Ahmed - OOP - بالعربي](https://youtube.com/playlist?list=PLwWuxCLlF_ue7GPvoG_Ko1x43tZw5cz9v) | Arabic
 
-<h2 id="introduction"><b>Intro</b></h2>
+## Intro
 
 | Topic               | Effort     | Resources                                                                                                                             |
 | ------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------- |
@@ -50,15 +50,15 @@ Here are some resources to learn these topics:
 | Hosting             | 30 minutes | [What Is Web Hosting?](https://youtu.be/htbY9-yggB0), [Different Types of Web Hosting](https://youtu.be/AXVZYzw8geg)                  |
 | Frontend vs Backend | 10 minutes | [Frontend web development](https://youtu.be/WG5ikvJ2TKA)                                                                              |
 
-<h2 id="core"><b>Core</b></h2>
+## Core
 
-- <a href="#IntroductiontoFrontEndDevelopment">Introduction to Front-End Development</a>
-- <a href="#HTML5">HTML5</a>
-- <a href="#CSS3">CSS3</a>
-- <a href="#tailwindcss">Tailwind CSS | Bootstrap</a>
-- <a href="#versionControl">Version Control</a>
+- [Introduction to Front-End Development](#introduction-to-front-end-development)
+- [HTML5](#html5)
+- [CSS3](#css3)
+- [Tailwind CSS | Bootstrap](#tailwind-css)
+- [Version Control](#version-control)
 
-<h3 id="IntroductiontoFrontEndDevelopment"><b>Introduction</b></h3>
+### Introduction to Front End Development
 
 By the end of the course, you will be able to:
 
@@ -67,94 +67,87 @@ By the end of the course, you will be able to:
 - Use HTML to create a simple webpage.
 - Use CSS to control the appearance of a simple webpage.
 
-| Resource                                                                                                                                                     | Effort   |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- |
-| [Meta - Introduction to Front-End Development](https://www.coursera.org/learn/introduction-to-front-end-development?specialization=meta-front-end-developer) | 10 hours |
+**Resource:**
 
-<h3 id="HTML5"><b>HTML5</b></h3>
+- [Meta - Introduction to Front-End Development](https://www.coursera.org/learn/introduction-to-front-end-development?specialization=meta-front-end-developer) | 10 hours
 
-| Resource                                                       | Effort    |
-| -------------------------------------------------------------- | --------- |
-| [Elzero Web School - Learn HTML](https://youtu.be/qfPUMV9J5yw) | 4.5 hours |
+### HTML5
 
-<h3 id="CSS3"><b>CSS3</b></h3>
+**Resource:**
 
-| Resource                                                      | Effort   |
-| ------------------------------------------------------------- | -------- |
-| [Elzero Web School - Learn CSS](https://youtu.be/qyVkLebgfzY) | 12 hours |
+- [Elzero Web School - Learn HTML](https://youtu.be/qfPUMV9J5yw) | 4.5 hours
 
-<h3 id="templates"><b>Now It's Time 
-To Practise</b></h3>
+### CSS3
 
-<a href="https://youtube.com/playlist?list=PLDoPjvoNmBAzHSjcR-HnW9tnxyuye8KbF">HTML And CSS Template 1</a> | 2 Hours
+**Resource:**
 
-<hr/>
-<a href="https://youtube.com/playlist?list=PLDoPjvoNmBAy1l-2A21ng3gxEyocruT0t">HTML And CSS Template 2</a> | 4 Hours
-<hr/>
-<a href="https://youtube.com/playlist?list=PLDoPjvoNmBAxuCSp2_-9LurPqRVwketnc">HTML And CSS Template 3</a> | 5 Hours
-<hr/>
-<a href="https://youtube.com/playlist?list=PLDoPjvoNmBAyGaRGzPVZCkYx5L7Mo9Tbh">HTML And CSS Template 4</a> | 7 Hours
+- [Elzero Web School - Learn CSS](https://youtu.be/qyVkLebgfzY) | 12 hours
 
-<br/>
+### Now It's Time To Practice
 
-<h3 id="tailwindcss"><b>Tailwind CSS</b></h3>
+- [HTML And CSS Template 1](https://youtube.com/playlist?list=PLDoPjvoNmBAzHSjcR-HnW9tnxyuye8KbF) | 2 Hours
+- [HTML And CSS Template 2](https://youtube.com/playlist?list=PLDoPjvoNmBAy1l-2A21ng3gxEyocruT0t) | 4 Hours
+- [HTML And CSS Template 3](https://youtube.com/playlist?list=PLDoPjvoNmBAxuCSp2_-9LurPqRVwketnc) | 5 Hours
+- [HTML And CSS Template 4](https://youtube.com/playlist?list=PLDoPjvoNmBAyGaRGzPVZCkYx5L7Mo9Tbh) | 7 Hours
 
-#### **_Why Tailwind CSS over Bootstrap?_**
+### Tailwind CSS
 
-- **Highly customizable**
-- **Smaller file sizes**
-- **Mobile-first approach**
-- **No pre-existing design language**
+**Why Tailwind CSS over Bootstrap?**
 
-| Resources                                                                                                     | Effort      |
-| ------------------------------------------------------------------------------------------------------------- | ----------- |
-| [Fireship - Tailwind in 100 Seconds](https://youtu.be/mr15Xzb1Ook)                                            | 100 seconds |
-| [The Net Ninja - Tailwind CSS Tutorial](https://youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw) | 2 hours     |
-| [Arabic - Tailwind CSS](https://youtu.be/Pk3hhCJG2Dk) [Optional]                                              | 2 hours     |
+- Highly customizable
+- Smaller file sizes
+- Mobile-first approach
+- No pre-existing design language
 
-<h4><b>Task list</b></h4>
+**Resources:**
 
-- [ ] [task 1](Tasks/TailwindCSS/Task1)
-- [ ] [task 2](Tasks/TailwindCSS/Task2)
-- [ ] [task 3](Tasks/TailwindCSS/Task3)
-- [ ] [task 4](Tasks/TailwindCSS/Task4)
-- [ ] [task 5](Tasks/TailwindCSS/Task5)
+- [Fireship - Tailwind in 100 Seconds](https://youtu.be/mr15Xzb1Ook) | 100 seconds
+- [The Net Ninja - Tailwind CSS Tutorial](https://youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw) | 2 hours
+- [Arabic - Practical Guide](https://www.youtube.com/watch?v=dr2GVki4HAs&list=PLnD96kXp-_pMR9cBUmvsz_kIIt9bv2UIP) [Optional (Learn javascript first for better understanding)] | 4.5 hours
+- [Arabic - Tailwind CSS](https://youtu.be/Pk3hhCJG2Dk) [Optional] | 2 hours
 
-<h3><b>Bootstrap [Optional]</b></h3>
+**Task list:**
 
-| Resources                                                              | Effort  |
-| ---------------------------------------------------------------------- | ------- |
-| [FreeCodeCamp - Bootstrap CSS Framework](https://youtu.be/-qfEOE4vtxE) | 3 hours |
-| [Arabic - Bootstrap 5](https://youtu.be/65EFKUpYk2A)                   | 2 hours |
+- [Task 1](Tasks/TailwindCSS/Task1)
+- [Task 2](Tasks/TailwindCSS/Task2)
+- [Task 3](Tasks/TailwindCSS/Task3)
+- [Task 4](Tasks/TailwindCSS/Task4)
+- [Task 5](Tasks/TailwindCSS/Task5)
 
-#### **Task list**: the same as in tailwind.
+### Bootstrap [Optional]
 
-<br/>
+**Resources:**
 
-<h3 id="versionControl"><b>Version Control</b></h3>
+- [FreeCodeCamp - Bootstrap CSS Framework](https://youtu.be/-qfEOE4vtxE) | 3 hours
+- [Arabic - Bootstrap 5](https://youtu.be/65EFKUpYk2A) | 2 hours
 
-| Resources                                                                                | Effort   |
-| ---------------------------------------------------------------------------------------- | -------- |
-| [Big Data - Git and GitHub](https://youtu.be/Q6G-J54vgKc)                                | 6 hours  |
-| [Meta - Version Control](https://www.coursera.org/learn/introduction-to-version-control) | 13 hours |
+**Task list:** the same as in Tailwind.
 
-<h2 id="intermediate"><b>Intermediate</b></h2>
+### Version Control
 
-- <a href="#jsSyntax">JavaScript Syntax</a>
-- <a href="#jsPractice">Practice on JavaScript Syntax</a>
-- <a href="#jsProjects">Build Projects</a>
-- <a href="#jsAdvanced">Advanced JS Concepts</a>
+**Resources:**
 
-<h3 id="jsSyntax"><b>JavaScript Syntax</b></h3>
+- [Big Data - Git and GitHub](https://youtu.be/Q6G-J54vgKc) | 6 hours
+- [Meta - Version Control](https://www.coursera.org/learn/introduction-to-version-control) | 13 hours
 
-| Resources                                                                                        | Effort   |
-| ------------------------------------------------------------------------------------------------ | -------- |
-| [Meta - Programming with JavaScript](https://www.coursera.org/learn/programming-with-javascript) | 20 hours |
-| [FreeCodeCamp - Learn JavaScript](https://youtu.be/PkZNo7MFNFg) [Optional]                       | 10 hours |
+## Intermediate
 
-<h3 id="jsPractice"><b>Practice on JavaScript</b></h3>
+- [JavaScript Syntax](#javascript-syntax)
+- [Practice on JavaScript Syntax](#practice-on-javascript)
+- [Build Projects](#build-projects)
+- [Advanced JS Concepts](#advanced-javascript)
 
-Practice, practice, and practice. You can't learn JavaScript without practicing it. Here we will solve several problems in leetcode to practice our JavaScript skills.
+### JavaScript Syntax
+
+**Resources:**
+
+- [Meta - Programming with JavaScript](https://www.coursera.org/learn/programming-with-javascript) | 20 hours
+- [Elzero Web School - Learn JavaScript in Arabic](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv) | 18 hours
+- [FreeCodeCamp - Learn JavaScript](https://youtu.be/PkZNo7MFNFg) [Optional] | 10 hours
+
+### Practice on JavaScript
+
+Practice, practice, and practice. You can't learn JavaScript without practicing it. Here we will solve several problems on leetcode to practice our JavaScript skills.
 
 | Problem                                                                                                                         | Solution |
 | ------------------------------------------------------------------------------------------------------------------------------- | -------- |
@@ -170,99 +163,112 @@ Practice, practice, and practice. You can't learn JavaScript without practicing 
 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)                                             |          |
 | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) |          |
 
-<h3 id="jsProjects"><b>Projects</b></h3>
+### Build Projects
 
-<a href="https://javascript30.com/">30 Day Vanilla JS Coding Challenge</a> | 30 Days
+- [30 Day Vanilla JS Coding Challenge](https://javascript30.com/) | 30 Days
+- [JavaScript API Projects](https://www.youtube.com/playlist?list=PLpwngcHZlPafPXPPPVTsOugzKfIJjB7Qm) | 5 Hours
 
-<a href="https://www.youtube.com/playlist?list=PLpwngcHZlPafPXPPPVTsOugzKfIJjB7Qm">JavaScript API Projects</a> | 5 Hours
+### Advanced JavaScript
 
-<h3 id="jsAdvanced"><b>Advanced JavaScript</b></h3>
+[Advanced Javascript Concepts](https://youtube.com/playlist?list=PL0Zuz27SZ-6N3bG4YZhkrCL3ZmDcLTuGd) | 5 Hours
 
-<a href="https://youtube.com/playlist?list=PL0Zuz27SZ-6N3bG4YZhkrCL3ZmDcLTuGd">Advanced Javascript Concepts</a> | 5 Hours
+# Advanced
 
-<h1 id="advanced"><b>Advanced</b></h1>
+## Why React JS ?
 
-<h2><b>Why React JS ?</b></h2>
-<p>React is a popular choice for building user interfaces because of its declarative approach, component-based architecture, large and active community, flexibility, and performance.</p>
+React is a popular choice for building user interfaces because of its declarative approach, component-based architecture, large and active community, flexibility, and performance.
 
-<h2><b>Navigate throuth these links:</b></h2>
+## Navigate through these links:
 
-- <a href="#react">React JS</a>
-- <a href="#reactrouter">React Router</a>
-- <a href="#reactprojects">Practice</a>
-- <a href="#mui">Material UI</a>
-- <a href="#sass">Sass</a>
-- <a href="#framermotion">Framer Motion</a>
-- <a href="#reduxtoolkit">Redux Toolkit</a>
-- <a href="#formik">Formik</a>
+- [React JS](#react-js)
+- [React Router](#react-router)
+- [Practice](#15-projects-with-react-js)
+- [Material UI](#material-ui)
+- [Sass](#sass)
+- [Framer Motion](#framer-motion)
+- [Redux Toolkit](#redux-toolkit)
+- [React Query](#react-query)
+- [Form Handling Libraries](#form-handling-libraries)
 
-<h3 id="react"><b>React JS</b></h3>
+## React JS
 
-<a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d">Full Modern React Tutorial</a> | 3 Hours
+[React Crash Course](https://www.youtube.com/watch?v=XrwsMN2IWnE) | 7 Hours (Free)
 
-<a href="https://www.youtube.com/watch?v=bMknfKXIFA8">React Course - Beginner's Tutorial for React JavaScript Library [2022]</a> | 12 Hours
+[Full Modern React Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d) | 3 Hours (Free)
 
-<h3 id="reactrouter"><b>React Router V.6</b></h3>
+[React Course - Beginner's Tutorial for React JavaScript Library [2022]](https://www.youtube.com/watch?v=bMknfKXIFA8) | 12 Hours (Free)
 
-<a href="https://www.youtube.com/watch?v=59IXY5IDrBA">React Router 6 – Tutorial for Beginners</a> | 2 Hours
+[The Ultimate React Course 2024: React, Redux & More](https://www.udemy.com/course/the-ultimate-react-course/) | 67 Hours (Paid)
 
-<a href="https://youtu.be/Ul3y1LXxzdU">Learn React Router v6 In 45 Minutes</a> | 45 Minutes
+[Pro Frontend Engineer ReactJS + TypeScript + Redux - بالعربى](https://www.udemy.com/course/pro-frontend-engineer-reactjs-typescript-redux-nextjs-api-tailwindcss/) | 53 Hours
 
-<h3 id="reactprojects"><b>15 Projects with React JS</b></h3>
+## React Router
 
-<a href="https://youtu.be/a_7Z7C_JCyo">Code 15 React Projects - Complete Course</a> | 9 Hours
+[React Router 6 – Tutorial for Beginners](https://www.youtube.com/watch?v=59IXY5IDrBA) | 2 Hours
 
-<h3 id="mui"><b>Material UI</b></h3>
+[Learn React Router v6 In 45 Minutes](https://youtu.be/Ul3y1LXxzdU) | 45 Minutes
 
-<a href="https://www.youtube.com/playlist?list=PLC3y8-rFHvwh-K9mDlrrcDywl7CeVL2rO">React Material UI Tutorial</a> | 6 Hours
+## 15 Projects with React JS
 
-<h3 id="sass"><b>Sass</b></h3>
+[Code 15 React Projects - Complete Course](https://youtu.be/a_7Z7C_JCyo) | 9 Hours
 
-<a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9jxJX7vojNVK-o8ubDZEcNb">SASS Tutorial (Build Your Own CSS Library)</a> | 3 Hours
+## Material UI
 
-<h3 id="framermotion"><b>Framer Motion</b></h3>
+[React Material UI Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwh-K9mDlrrcDywl7CeVL2rO) | 6 Hours
 
-<a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9iHDnQfTHEVVceOEBsOf07i">Framer Motion (for React) Tutorial</a> | 2 Hours
+## Sass
 
-<a href="https://www.youtube.com/playlist?list=PL3pZ0ZEStTyQLdpOMZck7lwKd6ZPzjadJ">Learn Framer Motion with React in Arabic 2023</a> | 1 Hour
+[SASS Tutorial (Build Your Own CSS Library)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jxJX7vojNVK-o8ubDZEcNb) | 3 Hours
 
-<h3 id="reduxtoolkit"><b>Redux Toolkit</b></h3>
+## Framer Motion
 
-<a href="https://www.youtube.com/playlist?list=PLC3y8-rFHvwiaOAuTtVXittwybYIorRB3">Redux Toolkit Tutorial</a> | 4 Hours
+[Framer Motion (for React) Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iHDnQfTHEVVceOEBsOf07i) | 2 Hours
 
-<h3 id="formik"><b>Formik</b></h3>
+[Learn Framer Motion with React in Arabic 2023](https://www.youtube.com/playlist?list=PL3pZ0ZEStTyQLdpOMZck7lwKd6ZPzjadJ) | 1 Hour
 
-<a href="https://www.youtube.com/playlist?list=PLC3y8-rFHvwiPmFbtzEWjESkqBVDbdgGu">React Formik Tutorial</a> | 5 Hours
+## Redux Toolkit
 
-<h1 id="extra"><b>Extra</b></h1>
+[Redux Toolkit Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwiaOAuTtVXittwybYIorRB3) | 4 Hours
 
-<h2><b>Navigate throuth these links:</b></h2>
+## React Query
 
-- <a href="#typescript">TypeScript</a>
-- <a href="#nextjs">Next JS</a>
-- <a href="#firebase">Firebase</a>
-- <a href="#testing">Testing</a>
+[React Query Crash Course](https://www.youtube.com/watch?v=r8Dg0KVnfMA) | 45 Minutes
 
-<h3 id="typescript"><b>TypeScript</b></h3>
+## Form Handling Libraries
 
-<a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAy532K9M_fjiAmrJ0gkCyLJ">Learn TypeScript 2022 [Arabic]</a> | 4 Hours
+[React Formik Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwiPmFbtzEWjESkqBVDbdgGu) | 5 Hours
 
-<a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI">TypeScript Tutorial</a> | 3 Hours
+[React Hook Form](https://www.youtube.com/watch?v=KejZXxFCe2k&list=PLC3y8-rFHvwjmgBr1327BA5bVXoQH-w5s) | 2 Hours
 
-<a href="https://www.youtube.com/watch?v=gieEQFIfgYc&feature=youtu.be">TypeScript Full Course for Beginners | Complete All-in-One Tutorial</a> | 8 Hours
+# Extra
 
-<h3 id="nextjs"><b>Next JS</b></h3>
+## Navigate through these links:
 
-<a href="https://www.youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH">Next.js Tutorial for Beginners</a> | 9 Hours
+- [TypeScript](#typescript)
+- [Next JS](#next-js)
+- [Firebase](#firebase)
+- [Testing](#testing)
 
-<a href="https://www.youtube.com/watch?v=tsmaQdgidKg">NextJS Course For Beginners - Routes, Fetching, SSR, SSG...</a> | 1 Hour
+## TypeScript
 
-<h3 id="firebse"><b>Firebase</b></h3>
+[Learn TypeScript 2022 [Arabic]](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy532K9M_fjiAmrJ0gkCyLJ) | 4 Hours
 
-<a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9jERUGvbudErNCeSZHWUVlb">Firebase 9 Tutorial</a> | 2 Hours
+[TypeScript Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI) | 3 Hours
 
-<a href="https://www.youtube.com/watch?v=2hR-uWjBAgw">Firebase React Course For Beginners - Learn Firebase V9+ in 2 Hours</a> | 2 Hours
+[TypeScript Full Course for Beginners | Complete All-in-One Tutorial](https://www.youtube.com/watch?v=gieEQFIfgYc&feature=youtu.be) | 8 Hours
 
-<h3 id="testing"><b>Testing</b></h3>
+## Next JS
 
-<a href="https://www.youtube.com/playlist?list=PLC3y8-rFHvwirqe1KHFCHJ0RqNuN61SJd">React Testing Tutorial</a> | 5 Hours
+[Mastering Next.js 14: A Comprehensive Guide to the Latest Features and Advanced Concepts!](https://www.youtube.com/watch?v=GowPe3iiqTs) | 5 Hours
+
+[Next.js Full Tutorial for Beginners | Next.js 13 Full Stack App Using App Router](https://www.youtube.com/watch?v=VE8BkImUciY) | 3 Hours
+
+## Firebase
+
+[Firebase 9 Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jERUGvbudErNCeSZHWUVlb) | 2 Hours
+
+[Firebase React Course For Beginners - Learn Firebase V9+ in 2 Hours](https://www.youtube.com/watch?v=2hR-uWjBAgw) | 2 Hours
+
+## Testing
+
+[React Testing Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwirqe1KHFCHJ0RqNuN61SJd) | 5 Hours
