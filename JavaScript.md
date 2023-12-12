@@ -14,11 +14,11 @@ This roadmap is designed to guide frontend developers in mastering JavaScript, s
 
 ## **Beginner Level (Weeks 1-2)**
 
-### **_Courses_**
+### **Courses**
 
 - [JavaScript Tutorial for Beginners by freeCodeCamp](https://www.youtube.com/watch?v=PkZNo7MFNFg): A comprehensive video tutorial series covering JavaScript fundamentals for beginners.
 
-### **_Topics_**
+### **Topics**
 
 1. Variables, data types, and operators
 2. Control flow and loops
@@ -27,11 +27,11 @@ This roadmap is designed to guide frontend developers in mastering JavaScript, s
 5. DOM manipulation basics
 6. Introduction to asynchronous programming with callbacks
 
-### **_Articles_**
+### **Articles**
 
 - [MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide): Comprehensive documentation and tutorials for JavaScript.
 
-### **_Projects_**
+### **Projects**
 
 Requirements:
 
@@ -55,12 +55,11 @@ Tools:
 
 ## **Intermediate Level (Weeks 3-5)**
 
-### **_Courses_**
+### **Courses**
 
-- [The Complete JavaScript Course 2022 by Jonas Schmedtmann](https://www.udemy.com/course/the-complete-javascript-course): Covers modern JavaScript features, ES6+ syntax, DOM manipulation, asynchronous programming, and more.
-- [Frontend Masters](https://frontendmasters.com): Provides a wide range of high-quality JavaScript courses taught by industry experts.
+- [Elzero Web School - JavaScript - Learn JavaScript In Arabic](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv): Covers modern JavaScript features, ES6+ syntax, DOM manipulation, asynchronous programming, and more.
 
-### **_Topics_**
+### **Topics**
 
 1. ES6+ features (arrow functions, destructuring, modules, etc.)
 2. Error handling and debugging
@@ -69,7 +68,7 @@ Tools:
 5. Manipulating the DOM with advanced techniques
 6. Fetching data from APIs
 
-### **_Project: Weather Application_**
+### **Project: Weather Application**
 
 Requirements:
 
@@ -94,11 +93,16 @@ Tools:
 
 ## **Advanced Level (Weeks 6-8)**
 
-### **_Courses_**
+### **Resources**
 
-- [Advanced JavaScript Concepts by Andrei Neagoie](https://www.udemy.com/course/advanced-javascript-concepts): Explores advanced topics, design patterns, clean code practices, and JavaScript frameworks.
+- [Traversy Media - NPM Crash Course](https://www.youtube.com/watch?v=jHDhaSSKmB0) : A video tutorial that covers NPM basics.
+- [Traversy Media - Webpack crash course](https://www.youtube.com/watch?v=IZGNcSuwBZs) : Learn webpack fundamentals.
 
-### **_Topics_**
+### **Articles**
+
+- [Javascript.Info Articles](https://javascript.info) : An awesome website includes a lot of advanced Javascript topics & details.
+
+### **Topics**
 
 1. Closures and scope
 2. Prototypes and inheritance
@@ -108,7 +112,7 @@ Tools:
 6. Performance optimization and profiling
 7. Security best practices
 
-### **_Project: To-Do List Application Enhancement_**
+### **Project: To-Do List Application Enhancement**
 
 Requirements:
 
@@ -131,13 +135,13 @@ Tools:
 
 ## **Final Project: Movie Recommendation Web Application**
 
-### _Requirements:_
+### Requirements:
 
 - Create a web application that recommends movies to users based on their preferences and search queries.
 - Utilize external APIs to retrieve movie data, such as movie titles, descriptions, ratings, and images.
 - Implement a user-friendly interface that allows users to search for movies, view movie details, and receive personalized recommendations.
 
-### _Features:_
+### Features:
 
 1. Movie Search:
    - Users can enter search queries to find movies by title, genre, or actor.
@@ -152,7 +156,7 @@ Tools:
 4. Responsive Design:
    - Ensure the application is responsive and accessible across different devices and screen sizes.
 
-### _Tools:_
+### Tools:
 
 - HTML, CSS, and JavaScript: Develop the frontend application using these core technologies.
 - Frameworks or libraries: Utilize frontend frameworks or libraries (e.g., React) for building the user interface and managing state.
@@ -161,7 +165,7 @@ Tools:
 - Database: Utilize a database (e.g., Firebase Firestore, MongoDB) to store user information, movie ratings, and reviews.
 - UI libraries: Enhance the user interface with UI libraries like Material-UI or Tailwind.
 
-### _Additional Suggestions:_
+### Additional Suggestions:
 
 - Implement features like movie trailers, similar movie recommendations, or the ability to create and join movie discussion forums.
 - Apply advanced JavaScript concepts and best practices, such as modular code architecture, efficient data fetching, and error handling.
