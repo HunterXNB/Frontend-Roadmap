@@ -14,12 +14,12 @@ This roadmap is designed to provide university students with the essential knowl
 
 ## **Introduction to version control (Week 2)**
 
-### **_Courses_**
+### **Courses**
 
 - [Big Data - Git and GitHub](https://youtu.be/Q6G-J54vgKc): A comprehensive video tutorial series covering the basics of Git and GitHub for beginners.
 - [Meta - Version Control](https://www.coursera.org/learn/introduction-to-version-control): A course that introduces the concept of version control and its importance in modern software development.
 
-### **_Topics_**
+### **Topics**
 
 1. version control basics
 2. requirements
@@ -30,11 +30,12 @@ This roadmap is designed to provide university students with the essential knowl
 
 ## **HTML (Week 3)**
 
-### **_Courses_**
+### **Courses**
 
-- [Elzero Web School - Learn HTML](https://youtu.be/qfPUMV9J5yw): A comprehensive video tutorial series covering the basics of HTML for beginners.
+- [Elzero Web School - Learn HTML](https://youtu.be/qfPUMV9J5yw) | 4 Hours
+- [Abdelrahman Gamal - HTML Full Course](https://www.youtube.com/watch?v=cvNTgKw8VlY) | 5 Hours
 
-### **_Topics_**
+### **Topics**
 
 1. HTML basics
 2. HTML elements
@@ -49,11 +50,12 @@ This roadmap is designed to provide university students with the essential knowl
 
 ## **CSS (Week 4)**
 
-### **_Courses_**
+### **Courses**
 
-- [Elzero Web School - Learn CSS](https://youtu.be/qyVkLebgfzY): A complete video tutorial series covering the modern CSS for frontend developers.
+- [Elzero Web School - Learn CSS](https://youtu.be/qyVkLebgfzY) | 11 Hours
+- [Abdelrahman Gamal - Learn CSS](https://www.youtube.com/watch?v=h1mNPEjva8U) | 9 Hours
 
-### **_Topics_**
+### **Topics**
 
 1. CSS basics
 2. CSS selectors
@@ -67,7 +69,7 @@ This roadmap is designed to provide university students with the essential knowl
 
 ## **Practical Templates (Week 5-6)**
 
-### **_Toturials_**
+### **Toturials**
 
 - [HTML And CSS Template 1](https://youtu.be/_-eh8cwGGwg)
 - [HTML And CSS Template 2](https://youtu.be/heuDmrEAgUA)
@@ -76,12 +78,12 @@ This roadmap is designed to provide university students with the essential knowl
 
 ## **Tailwind CSS (Week 7)**
 
-### **_Courses_**
+### **Courses**
 
 - [Tailwind CSS Tutorial by The Net Ninja](https://youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw): A playlist of video tutorials covering the fundamentals of Tailwind CSS.
 - [Arabic - Tailwind CSS by Tarmiz Academy](https://youtu.be/Pk3hhCJG2Dk) `Optional but GREAT`: A great video tutorial series covering the fundamentals of Tailwind CSS for Arabic speakers.
 
-### **_Topics_**
+### **Topics**
 
 1. Tailwind CSS basics
 2. Tailwind CSS utilities
@@ -91,7 +93,7 @@ This roadmap is designed to provide university students with the essential knowl
 
 ## **Practical Templates (Week 8)**
 
-### **_Templates_**
+### **Templates**
 
 1. [Tailwind CSS Template 1](Tasks/TailwindCSS/Task1)
 2. [Tailwind CSS Template 2](Tasks/TailwindCSS/Task2)
